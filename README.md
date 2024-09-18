@@ -16,9 +16,9 @@ As such, most of my repositories are very hobby oriented!
 
 ## Github stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=jlabbude&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=jlabbude&show_icons=true&theme=gruvbox&border_radius=15&layout=compact&hide_border=true)
 
-## Skills
+## Technologies
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
@@ -29,3 +29,8 @@ As such, most of my repositories are very hobby oriented!
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Languages
+- Português
+- English
+- 日本語（N5）
