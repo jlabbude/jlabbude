@@ -33,4 +33,4 @@ As such, most of my repositories are very hobby oriented!
 ## Languages
 - Português
 - English
-- 日本語（N5）
+- 日本語（N4）
