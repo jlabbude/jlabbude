@@ -1,12 +1,5 @@
 ## Hi, I'm Lucas!
 
-<p align="center">
-  <img src="https://i.ibb.co/6wGpWTB/aimaina-page-0001.jpg">
-  <a href=https://www.linkedin.com/in/jlabbude/>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a/>
-<p/>
-
 ### About me:
 I'm an undergraduate at Computer Engineering, currently working at Kofre Tecnologia.
 
